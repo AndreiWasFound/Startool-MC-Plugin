@@ -1,0 +1,8 @@
+main: me.andreisava4.Startool.Main
+name: Startool
+version: 1.0
+author: andreisava4
+api-version: 1.13
+
+commands:
+  Startool:
